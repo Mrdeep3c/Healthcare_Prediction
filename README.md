@@ -1,1 +1,1 @@
-# Healthcare_Prediction
+# Medical-Insurance-Prediction-Model-Machine-Learning-Project
